@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/homework2/static/css/main.f855e6bc.css",
+    "main.js": "/homework2/static/js/main.0c4f0fbc.js",
+    "static/js/787.d6aca012.chunk.js": "/homework2/static/js/787.d6aca012.chunk.js",
+    "static/media/newyork-pilt.jpg": "/homework2/static/media/newyork-pilt.fe705d97656a7326fe3b.jpg",
+    "static/media/singapore-pilt.jpg": "/homework2/static/media/singapore-pilt.c2ee05aa465daa565a70.jpg",
+    "static/media/london-pilt.jpg": "/homework2/static/media/london-pilt.75f45758db8f5e5b494c.jpg",
+    "index.html": "/homework2/index.html",
+    "main.f855e6bc.css.map": "/homework2/static/css/main.f855e6bc.css.map",
+    "main.0c4f0fbc.js.map": "/homework2/static/js/main.0c4f0fbc.js.map",
+    "787.d6aca012.chunk.js.map": "/homework2/static/js/787.d6aca012.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0c4f0fbc.js"
+  ]
+}
